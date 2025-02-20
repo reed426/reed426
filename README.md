@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reed426&show_icons=true&theme=tokyonight">
-</p>
 
+
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=reed426)](https://github.com/marshallku/gitgarden)
