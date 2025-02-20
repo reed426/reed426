@@ -1,4 +1,4 @@
-
+### 🔥 이 소 연 입 니 다 🔥 ###
 <p align="center">
   <a href="https://solved.ac/red426">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=red426">
