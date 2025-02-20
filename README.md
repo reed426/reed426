@@ -8,4 +8,8 @@
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/reed426"/>
+</a>
+
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=reed426)](https://github.com/marshallku/gitgarden)
