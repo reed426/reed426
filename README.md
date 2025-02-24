@@ -10,11 +10,11 @@
 </p>
 
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=reed426)](https://github.com/marshallku/gitgarden)
-
-
 <p align="center">
   <a href="https://github.com/devxb/gitanimals" >
     <img src="https://render.gitanimals.org/farms/reed426"/>
   </a>
 </p>
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=reed426)](https://github.com/marshallku/gitgarden)
+
